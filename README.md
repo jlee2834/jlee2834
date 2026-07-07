@@ -6,6 +6,6 @@
 
 <div align="center">
 
-📍 United States &nbsp;·&nbsp; 📧 [jacobleeit@proton.me](mailto:jacobleeit@proton.me) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/jacoblee-it)
+📍 United States &nbsp;·&nbsp; 📧 [jlee74@email.davenport.edu](mailto:jlee74@email.davenport.edu) &nbsp;·&nbsp; 💼 [LinkedIn]([https://linkedin.com/in/jacoblee-it](https://www.linkedin.com/in/jacob-lee-b547a3197/))
 
 </div>
