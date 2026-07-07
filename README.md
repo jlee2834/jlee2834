@@ -20,11 +20,9 @@ I build, automate, and secure systems. Currently focused on Security Operations,
 
 </div>
 
-Every badge above queries GitHub's live API on page load — the numbers you see are always current, not typed in by hand.
-
 <br>
 
-## 📊 GitHub Stats (live)
+## 📊 GitHub Stats 
 
 <div align="center">
 
@@ -38,8 +36,6 @@ Every badge above queries GitHub's live API on page load — the numbers you see
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlee2834&theme=github-dark&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
-
-All three images above are generated server-side by reading your actual commit/PR/issue/star history from the GitHub API — they update automatically as you push code. Nothing here is hardcoded.
 
 <br>
 
