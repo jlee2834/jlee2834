@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jlee2834/jlee2834/main/assets/profile.png" width="150" height="150" style="border-radius:50%;" alt="Jacob Lee"/>
-
 # Hi, I'm Jacob Lee
 
 ### IT Support • Cybersecurity • Homelab Engineer
