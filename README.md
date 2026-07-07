@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jacob+Lee;IT+Support+%E2%80%A2+Cybersecurity+%E2%80%A2+Homelab+Engineer;SOC+Analyst+Focused+%E2%80%A2+Always+Learning" />
 </p>
 
-
-# Hi, I'm Jacob Lee
-
 ### IT Support • Cybersecurity • Homelab Engineer
 
 I build, automate, and secure systems. Currently focused on Security Operations, threat detection, and infrastructure automation. Always learning. Always building.
