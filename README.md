@@ -43,7 +43,7 @@ All three images above are generated server-side by reading your actual commit/P
 
 <br>
 
-## 🧠 Most-Used Languages (live, computed from your real repos)
+## 🧠 Most-Used Languages 
 
 <div align="center">
 
@@ -54,8 +54,6 @@ All three images above are generated server-side by reading your actual commit/P
 <br>
 
 ## 🔖 Pinned Projects (live repo cards)
-
-> Replace `REPO-NAME` below with the exact name of each repository as it appears on your GitHub — these cards pull real star/fork counts and descriptions straight from that repo.
 
 <div align="center">
 
@@ -90,8 +88,6 @@ All three images above are generated server-side by reading your actual commit/P
 <br>
 
 ## 🎯 Current Focus & Certifications
-
-*(This section is plain text you maintain yourself — there's no public API for in-progress certifications, so nothing can "pull" this live.)*
 
 - 🟢 Security+ *(In Progress)*
 - ⚪ AZ-500, SC-200, SC-900, CySA+, PNPT *(Planned)*
