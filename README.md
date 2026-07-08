@@ -53,7 +53,7 @@ I build, automate, and secure systems. Currently focused on Security Operations,
 
 <div align="center">
 
-<a href="https://github.com/jlee2834/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlee2834&repo=REPO-NAME-1&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" /></a>
+<a href="https://github.com/jlee2834/Home-Lab-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlee2834&repo=REPO-NAME-1&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" /></a>
 <a href="https://github.com/jlee2834/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlee2834&repo=REPO-NAME-2&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" /></a>
 <a href="https://github.com/jlee2834/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlee2834&repo=REPO-NAME-3&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" /></a>
 <a href="https://github.com/jlee2834/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlee2834&repo=REPO-NAME-4&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" /></a>
