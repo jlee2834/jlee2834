@@ -31,10 +31,6 @@ I build, automate, and secure systems. Currently focused on Security Operations,
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlee2834&theme=github-dark&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph"/>
-
 </div>
 
 <br>
