@@ -39,16 +39,6 @@ I build, automate, and secure systems. Currently focused on Security Operations,
 
 <br>
 
-## 🧠 Most-Used Languages 
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlee2834&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&langs_count=8" height="220" alt="Top Languages"/>
-
-</div>
-
-<br>
-
 ## 🧰 Core Technologies
 
 <div align="center">
