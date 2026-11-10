@@ -26,7 +26,6 @@ I build, automate, and secure systems. Currently focused on Security Operations,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jlee2834&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&count_private=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlee2834&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353" height="165" alt="GitHub Streak"/>
 
 </div>
