@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jacob+Lee;IT+Support+%7C+Cybersecurity+%7C+Homelab+Engineer;SOC+Analyst+in+training" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jacob+Lee;IT+Support+%7C+Cybersecurity+%7C+Homelab+Engineer;SOC+Analyst" alt="Typing SVG" />
 
 I build, automate, and secure systems. Currently focused on Security Operations, threat detection, and infrastructure automation.
 
